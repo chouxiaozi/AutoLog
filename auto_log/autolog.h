@@ -21,7 +21,7 @@
 #include <stdlib.h>
 #include <vector>
 #include <glog/logging.h>
-
+#include <numeric>
 
 class AutoLogger {
 public:
